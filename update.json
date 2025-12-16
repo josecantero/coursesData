@@ -1,6 +1,6 @@
 {
     "version": "1.0.76",
-    "description": "Primera versión estable",
+    "description": "Solución de algunos bugs",
     "downloads": {
         "linux": "https://github.com/josecantero/curseApp/releases/download/v1.0.76/curseApp-1.0.76.AppImage",
         "win32": "https://github.com/josecantero/curseApp/releases/download/v1.0.76/courseapp-1.0.76.Setup.exe"
