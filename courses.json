@@ -11,57 +11,81 @@
         "language": "Español",
         "platform": "Platzi",
         "instructor": {
-          "name": "Platzi",
-          "bio": "Plataforma de cursos",
-          "profileUrl": ""
+              "name": "Platzi",
+              "bio": "Plataforma de cursos",
+              "profileUrl": ""
         },
         "prerequisites": [
-          "Acceso a una computadora e internet."
+              "Acceso a una computadora e internet."
         ],
         "targetAudience": "Personas interesadas en aprender SQL",
         "tags": [
-          "Informatica",
-          "SQL",
-          "Desarrolo",
-          "Programación"
+              "Informatica",
+              "SQL",
+              "Desarrolo",
+              "Programación"
         ],
         "lessons": [
           {
-            "title": "Módulo 1 Introducción - 1. Breve historia de SQL",
-            "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Breve-historia-de-SQL:b",
-            "lessonDescription": "",
-            "resources": [
-              {
-                "type": "",
-                "title": "",
-                "url": ""
-              }
-            ]
+                "title": "Módulo 1 Introducción - 1. Breve historia de SQL",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Breve-historia-de-SQL:b",
+                "lessonDescription": "",
+                "resources": [
+                      {
+                            "type": "",
+                            "title": "",
+                            "url": ""
+                      }
+                ]
           },
           {
-            "title": "Módulo 1 Introducción - 2. Algebra.",
-            "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-%C3%81lgebra-relacional:0",
-            "lessonDescription": "",
-            "resources": [
-              {
-                "type": "",
-                "title": "",
-                "url": ""
-              }
-            ]
+                "title": "Módulo 1 Introducción - 2. Algebra.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-%C3%81lgebra-relacional:0",
+                "lessonDescription": "",
+                "resources": [
+                      {
+                            "type": "",
+                            "title": "",
+                            "url": ""
+                      }
+                ]
           },
           {
-            "title": "Módulo 1 Introducción - 3. Qué es una proyección (SELECT).",
-            "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Qu%C3%A9-es-una-proyecci%C3%B3n-%28SELECT%29:c",
-            "lessonDescription": "",
-            "resources": [
-              {
-                "type": "",
-                "title": "",
-                "url": ""
+                "title": "Módulo 2 DML - 3. Qué es una proyección (SELECT).",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Qu%C3%A9-es-una-proyecci%C3%B3n-%28SELECT%29:c",
+                "lessonDescription": "",
+                "resources": [
+                      {
+                            "type": "",
+                            "title": "",
+                            "url": ""
+                      }
+                ]
+          },
+          {
+                "title": "Módulo 2 DML - 4. Origen (FROM).",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Origen-%28FROM%29:1",
+                "lessonDescription": "",
+                "resources": [
+                      {
+                            "type": "",
+                            "title": "",
+                            "url": ""
+                      }
+                ]
+          },
+             {
+                    "title": "Módulo 2 DML - 5. Productos cartesianos (JOIN).",
+                    "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Productos-cartesianos-%28JOIN%29:4",
+                    "lessonDescription": "",
+                    "resources": [
+                          {
+                                "type": "",
+                                "title": "",
+                                "url": ""
+                          }
+                    ]
               }
-            ]
-          }
         ]
       },
     {
