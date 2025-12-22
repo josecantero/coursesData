@@ -111,7 +111,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 7. Ordenamiento (ORDER BY).",
+                    "title": "Módulo 3 Filtro - 1. Ordenamiento (ORDER BY).",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Ordenamiento-%28ORDER-BY%29:a",
                     "lessonDescription": "",
                     "resources": [
@@ -123,7 +123,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 8. Agrupación y Limitantes (GROUP BY y LIMIT).",
+                    "title": "Módulo 3 Filtro - 2. Agrupación y Limitantes (GROUP BY y LIMIT).",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Agregaci%C3%B3n-y-limitantes-%28GROUP-BY-y-LIMIT%29:4",
                     "lessonDescription": "",
                     "resources": [
@@ -135,7 +135,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 9. El primero.",
+                    "title": "Módulo 3 FILTRO - 3. El primero.",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-El-primero:1",
                     "lessonDescription": "",
                     "resources": [
@@ -147,7 +147,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 10. El segundo más alto.",
+                    "title": "Módulo 3 FILTRO - 4. El segundo más alto.",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-El-segundo-m%C3%A1s-alto:2",
                     "lessonDescription": "",
                     "resources": [
@@ -159,7 +159,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 11. Seleccionar de un set de opciones",
+                    "title": "Módulo 3 FILTRO - 5. Seleccionar de un set de opciones",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Seleccionar-de-un-set-de-opciones:2",
                     "lessonDescription": "",
                     "resources": [
@@ -171,7 +171,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 12. En mis tiempos",
+                    "title": "Módulo 3 FILTRO - 6. En mis tiempos",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-En-mis-tiempos:c",
                     "lessonDescription": "",
                     "resources": [
@@ -183,7 +183,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 13. Seleccionar por Año",
+                    "title": "Módulo 3 FILTRO - 7. Seleccionar por Año",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/14.-Seleccionar-por-a%C3%B1o--:1",
                     "lessonDescription": "",
                     "resources": [
@@ -195,7 +195,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 14. Duplicados",
+                    "title": "Módulo 3 FILTRO - 8. Duplicados",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/15.-Duplicados:4",
                     "lessonDescription": "",
                     "resources": [
@@ -207,7 +207,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 15. Selectores de Rango",
+                    "title": "Módulo 3 FILTRO - 9. Selectores de Rango",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/16.-Selectores-de-rango:2",
                     "lessonDescription": "",
                     "resources": [
@@ -219,7 +219,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 16. Eres lo máximo",
+                    "title": "Módulo 3 FILTRO - 10. Eres lo máximo",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/17.-Eres-lo-m%C3%A1ximo:d",
                     "lessonDescription": "",
                     "resources": [
@@ -231,7 +231,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 17. Egoista (Selfish)",
+                    "title": "Módulo 3 FILTRO - 11. Egoista (Selfish)",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/18.-Ego%C3%ADsta-%28selfish%29:4",
                     "lessonDescription": "",
                     "resources": [
@@ -243,7 +243,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 18. Resolviendo diferencias",
+                    "title": "Módulo 3 FILTRO - 12. Resolviendo diferencias",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/19.-Resolviendo-diferencias:9",
                     "lessonDescription": "",
                     "resources": [
@@ -255,7 +255,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 19. Todas las uniones",
+                    "title": "Módulo 3 FILTRO - 13. Todas las uniones",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/20.-Todas-las-uniones:e",
                     "lessonDescription": "",
                     "resources": [
@@ -267,7 +267,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 20. Triangulando",
+                    "title": "Módulo 3 FILTRO - 14. Triangulando",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/21.-Triangulando:d",
                     "lessonDescription": "",
                     "resources": [
@@ -279,7 +279,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 21. Generando Rangos",
+                    "title": "Módulo 3 FILTRO - 15. Generando Rangos",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/22.-Generando-rangos:a",
                     "lessonDescription": "",
                     "resources": [
@@ -291,7 +291,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 22. Regularizando Expresiones",
+                    "title": "Módulo 4 ALGORITMOS - 1. Regularizando Expresiones",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/23.-Regularizando-expresiones:a",
                     "lessonDescription": "",
                     "resources": [
@@ -303,7 +303,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 23. Bases de Datos Distribuidas",
+                    "title": "Módulo 5 Tipos de Bases de Datos - 1. Bases de Datos Distribuidas",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/24.-Bases-de-datos-distribuidas:0",
                     "lessonDescription": "",
                     "resources": [
@@ -315,7 +315,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 24. Queries Distribuidos",
+                    "title": "Módulo 5 Tipos de Bases de Datos - 2. Queries Distribuidos",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/25.-Queries-distribu%C3%ADdos:0",
                     "lessonDescription": "",
                     "resources": [
@@ -327,7 +327,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 25. Sharding",
+                    "title": "Módulo 5 Tipos de Bases de Datos - 3. Sharding",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/26.-Sharding:0",
                     "lessonDescription": "",
                     "resources": [
@@ -339,7 +339,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 26. Window Functions",
+                    "title": "Módulo 6 Funciones - 1. Window Functions",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/27.-Window-functions:a",
                     "lessonDescription": "",
                     "resources": [
@@ -351,7 +351,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 27. Particiones y Agregación",
+                    "title": "Módulo 6 Funciones - 2. Particiones y Agregación",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/28.-Particiones-y-agregaci%C3%B3n:4",
                     "lessonDescription": "",
                     "resources": [
@@ -363,7 +363,7 @@
                     ]
               },
              {
-                    "title": "Módulo 2 DML - 28. El futuro de SQL",
+                    "title": "Módulo 7 Conlusión - 1. El futuro de SQL",
                     "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/29.-El-futuro-de-SQL:e",
                     "lessonDescription": "",
                     "resources": [
