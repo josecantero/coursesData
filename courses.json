@@ -1,5 +1,266 @@
 [
     {
+        "id": "HabGerenLidCom",
+        "title": "Habilidades Gerenciales Liderazgo y Comunicación",
+        "description": "Este curso transforma líderes en gestores efectivos, fusionando liderazgo inspirador con comunicación estratégica para impulsar equipos hacia objetivos claros, desarrollar talento y manejar conflictos en entornos cambiantes, usando herramientas prácticas como el coaching y la inteligencia emocional para mejorar la toma de decisiones y la motivación, logrando así resultados superiores y un clima laboral positivo.",
+        "thumbnail": "https://thumbnails.odycdn.com/optimize/s:390:220/quality:85/plain/https://thumbs.odycdn.com/e8d140726aea0f3ad41d25d5a495f244.webp",
+        "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Liderazgo.:5",
+        "duration": "4H 50M",
+        "category": "Liderazgo",
+        "level": "Intermedio",
+        "language": "Hector Peña",
+        "platform": "Udemy",
+        "instructor": {
+            "name": "Hector Peña",
+            "bio": "Couch",
+            "profileUrl": ""
+        },
+        "prerequisites": [
+            "Acceso a una computadora e internet."
+        ],
+        "targetAudience": "Directivos, Gerentes, Líderes",
+        "tags": [
+            "liderazgo",
+            "gerencia",
+            "presidencia",
+            "comunicacion"
+        ],
+        "lessons": [
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 1. Liderazgo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Liderazgo.:5",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "1.1 L01.Liderazgo",
+                        "url": "https://es.scribd.com/document/974172754/1-1-L01-Liderazgo"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 2. Influencia",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Influencia:a",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "2.1 L02.Influencia",
+                        "url": "https://es.scribd.com/document/974173352/2-1-L02-Influencia"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 3. Smart Tips ¿Cómo interactúa un líder?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Smart-Tips-%C2%BFC%C3%B3mo-interact%C3%BAa-un-l%C3%ADder:2",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "3.1 ProcesoDeInteraccion",
+                        "url": "https://es.scribd.com/document/974173995/3-1-ProcesoDeInteraccion"
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "3.2 ST.Interaccion",
+                        "url": "https://es.scribd.com/document/974173997/3-2-ST-interaccion"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 4. Empatía e Integridad.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Empat%C3%ADa-e-Integridad.:d",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "4.1 L03.EmpatiaIntegridad",
+                        "url": "https://es.scribd.com/document/974191002/4-1-L03-EmpatiaIntegridad"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 5. Smart Tips ¿Como dar retroalimentación?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Smart-Tips-%C2%BFComo-dar-retroalimentaci%C3%B3n:1",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "5.1 ST.Retroalimentacion",
+                        "url": "https://es.scribd.com/document/974191345/5-1-ST-retroalimentacion"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 6. Persuasión.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Persuasi%C3%B3n.:1",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "6.1 L04.Persuacion",
+                        "url": "https://es.scribd.com/document/974191722/6-1-L04-Persuacion"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 1 Liderazgo influencia y persuación - 7. Smart Tips ¿Cómo evitar fallas en la comunicación?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Smart-Tips-%C2%BFC%C3%B3mo-evitar-fallas-en-la-comunicaci%C3%B3n:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 1. El poder del dialogo.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-El-poder-del-dialogo.:b",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "1.1 C02.Dialogo",
+                        "url": "https://es.scribd.com/document/974192580/1-1-C02-Dialogo"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 2. ¿Qué es una conversación importante?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-%C2%BFQu%C3%A9-es-una-conversaci%C3%B3n-importante:9",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "2.1 C01.Conversaciones",
+                        "url": "https://es.scribd.com/document/974192920/2-1-C01-Conversaciones"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 3. P1. Enfócate en lo que quieres.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-P1.-Enf%C3%B3cate-en-lo-que-quieres.:e",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "3.1 C03.P1Enfoque",
+                        "url": "https://es.scribd.com/document/974193257/3-1-C03-P1Enfoque"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 4. P2. Aprende a observar.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-P2.-Aprende-a-observar.:8",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "4.1 C04.P2Observa",
+                        "url": "https://es.scribd.com/document/974193654/4-1-C04-P2Observa"
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "4.2 Test",
+                        "url": "https://es.scribd.com/document/974193650/4-2-Test"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 5. P3. Hazlo seguro.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-P3.-Hazlo-seguro.:3",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "5.1 C05.P3HasloSeguro",
+                        "url": "https://es.scribd.com/document/974194193/5-1-C05-P3HasloSeguro"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 6. P4. Domina tus historias.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-P4.-Domina-tus-historias.:0",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "6.1 C06.P4Historias",
+                        "url": "https://es.scribd.com/document/974194529/6-1-C06-P4Historias"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 7. P4. Declara tu camino.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-P4.-Declara-tu-camino.:3",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "7.1 C07.P5Declara",
+                        "url": "https://es.scribd.com/document/974195571/7-1-C07-P5Declara"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 8. Smart Tips ¿Cómo comunico mis ideas?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Smart-Tips-%C2%BFC%C3%B3mo-comunico-mis-ideas:1",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "8.1 ST.Ideas",
+                        "url": "https://es.scribd.com/document/974195856/8-1-ST-Ideas"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 9. P6. Explora el camino de los demás.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-P6.-Explora-el-camino-de-los-dem%C3%A1s.:a",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "9.1 C08.P6LosDemas",
+                        "url": "https://es.scribd.com/document/974196369/9-1-C08-P6LosDemas"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 10. P7. Muevete a la acción.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-P7.-Muevete-a-la-acci%C3%B3n.:0",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "10.1 C09.P7Accion",
+                        "url": "https://es.scribd.com/document/974196688/10-1-C09-P7Accion"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 11. Integrando todo el modelo.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Integrando-todo-el-modelo.:a",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "11.1 C10.IntegrandoTodo",
+                        "url": "https://es.scribd.com/document/974196987/11-1-C10-IntegrandoTodo"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Principios para dominar las conversaciones - 12. Smart Tips ¿Como preparar presentaciones o informes",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Smart-Tips-%C2%BFComo-preparar-presentaciones-o-informes:8",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "12.1 ST.Presentaciones",
+                        "url": "https://es.scribd.com/document/974197243/12-1-ST-presentaciones"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "Plat_SQL_Pract",
         "title": "SQL Práctico.",
         "description": "SQL es lenguaje por excelencia para el manejo de datos estructurados. Incrementa tus habilidades en él con ejercicios de álgebra relacional, subconsultas y window functions. Aprende a hacer consultas más eficientes y complejas con este lenguaje.",
