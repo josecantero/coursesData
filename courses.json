@@ -1,5 +1,171 @@
 [
     {
+        "id": "res_epox",
+        "title": "Curso de Resina Epóxica",
+        "description": "Conocerás los diferentes tipos de resina, técnicas de mezcla, pigmentación, vertido y curado. Crearás proyectos como joyería, posavasos, bandejas, cuadros, llaveros y más, además de descubrir consejos para evitar burbujas, lograr acabados profesionales y cómo iniciar tu propio emprendimiento con estas piezas.",
+        "thumbnail": "https://thumbnails.odycdn.com/optimize/s:390:220/quality:85/plain/https://thumbs.odycdn.com/e3ad8874d27754b390543c142c8778d7.webp",
+        "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1---Introducci%C3%B3n-al-dise%C3%B1o-de-pisos-epoxicos:c",
+        "duration": "2h 36m",
+        "category": "Decoración",
+        "level": "Avanzado",
+        "language": "Español",
+        "platform": "Hotmart",
+        "instructor": {
+            "name": "Edu Martinez",
+            "bio": "",
+            "profileUrl": ""
+        },
+        "prerequisites": [
+            "Acceso a una computadora e internet."
+        ],
+        "targetAudience": "Personas interesadas en aprender Diseños y manualidades con Resina Epóxica",
+        "tags": [
+            "Resina Epóxica",
+            "Manualidades",
+            "Diseño de iinteriores"
+        ],
+        "lessons": [
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 1. Historia de la resina.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1---Introducci%C3%B3n-al-dise%C3%B1o-de-pisos-epoxicos:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 2. Tipos de Resina.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3---Tipos-de-resina:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 3. Ventajas de resina para pisos.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4---Ventajas-de-resina-para-pisos:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 4. Clasificación de Epóxicos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5---Clasificaci%C3%B3n-de-epoxicos:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 5. Herramientas para aplicación de epóxicos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6---Herramientas-para-aplicaci%C3%B3n-de-epoxicos:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 6. Clasificación de vinilos y sus propiedades.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7---Clasificaci%C3%B3n-de-vinilos-y-sus-propiedades:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 7. Orientación sobre el mercado.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8---Orientaci%C3%B3n-sobre-el--mercado:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 8. Principales tendencias en pisos epóxicos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9---Principales-tendencias-en-pisos-epoxicos:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 9. Diferencias entre resina epóxica y pintura epóxica",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10---Diferencia-entre-resina-epoxica-y-pintura-epoxica:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 10. Orden de capas en un piso tipo sandwich o Multiplacas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11---Orden-de-capas-en-un-piso-tipo-sandwich-o-multicapas:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 11. Aplicación y Mezcla de pigmentos.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12---Aplicaci%C3%B3n-y-mezcla-de-pigmentos:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 12. Teoría y diseños de pisos 3D",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13---Teoria-y-dise%C3%B1o-de-pisos-3D:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 13. Teoría y práctica de pisos 3D.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/14---Teoria-y-practica-de-pisos-3D:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 14. Teoría y diseño de pisos unicolor.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/15---Teoria-y-dise%C3%B1o-de-pisos-unicolor:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 15.  Teoría y Práctica",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/16---Teoria-y-practica:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 16. Teoría y diseño de pissos con ornamentos.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/17---Teor%C3%ADa-y-dise%C3%B1o-de-pisos-Con-ornamentos:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 17. Teoría y práctica de pisos con ornamentos.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/18---Teoria-y-practica-de-pisos-con-ornamentos:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 18. Teoría y Diseño de pisos veteos.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/19---Teor%C3%ADa-y-dise%C3%B1o-de-pisos-veteados:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 19. Teoría y Diseño de pisos marmolados.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/20---Teor%C3%ADa-y-dise%C3%B1o-de-pisos-marmolados:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 20. Teoría y práctica de pisos marmolados y veteados.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/21---Teor%C3%ADa-y-practica-de-pisos-marmolados-y-veteados:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 21. Diseño en Photoshop de vinilo.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/22---Dise%C3%B1o-en-Photoshop-del-vinilo:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 22. Proyecto de baño con piso 3D.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/23---Proyecto-de-ba%C3%B1o-con-piso-3D:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 Pisos con Resina Epóxica - 23. Preguntas frecuentes.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/24---Preguntas-frecuentes:e",
+                "lessonDescription": "",
+                "resources": []
+            }
+        ]
+    },
+    {
         "id": "HabGerenLidCom",
         "title": "Habilidades Gerenciales Liderazgo y Comunicación",
         "description": "Este curso transforma líderes en gestores efectivos, fusionando liderazgo inspirador con comunicación estratégica para impulsar equipos hacia objetivos claros, desarrollar talento y manejar conflictos en entornos cambiantes, usando herramientas prácticas como el coaching y la inteligencia emocional para mejorar la toma de decisiones y la motivación, logrando así resultados superiores y un clima laboral positivo.",
