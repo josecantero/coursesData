@@ -162,6 +162,51 @@
                 "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/24---Preguntas-frecuentes:e",
                 "lessonDescription": "",
                 "resources": []
+            },
+            {
+                "title": "MODULO 2 Mesas con resina epóxica - 1. Mesa con bosque",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/Video-de-ejemplo:4",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "Curso Digital Mesas de Resina",
+                        "url": "https://es.scribd.com/document/978009281/Curso-Digital-Mesas-de-Resina?_gl=1*x6k8zk*_gcl_au*NzY1MjY2MzcxLjE3NjYwMjUwNDc."
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "El arte de la resina",
+                        "url": "https://es.scribd.com/document/978009310/El-Arte-de-La-Resina?_gl=1*1nkdz5m*_gcl_au*NzY1MjY2MzcxLjE3NjYwMjUwNDc."
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "Guía mesa resina epóxica",
+                        "url": "https://es.scribd.com/document/978009263/Guia-Mesa-Epoxi?_gl=1*pahdy0*_gcl_au*NzY1MjY2MzcxLjE3NjYwMjUwNDc."
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "Manual Mesa resina epóxica",
+                        "url": "https://es.scribd.com/document/978009260/Manual-Mesa-Resina-Epoxica?_gl=1*1dhapnb*_gcl_au*NzY1MjY2MzcxLjE3NjYwMjUwNDc."
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Mesas con resina epóxica - 2. Mesa con Río",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/Video-de-ejemplo-MESA-con-Rio%2C-Rexina-EPOXICA:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Mesas con resina epóxica - 3. Video de guía.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/Video-de-guia:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Mesas con resina epóxica - 4. Video para guiarte",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/Video-para-guiarte:0",
+                "lessonDescription": "",
+                "resources": []
             }
         ]
     },
