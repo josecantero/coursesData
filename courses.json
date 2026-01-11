@@ -1,5 +1,906 @@
 [
     {
+        "id": "CCIACP",
+        "title": "Curso Completo de Inteligencia Artificial con Python",
+        "description": "",
+        "thumbnail": "https://thumbnails.odycdn.com/optimize/s:1024:0/quality:100/plain/https://thumbs.odycdn.com/69686afb6bbd314f2ea9fb89b7d71426.webp",
+        "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Introducci%C3%B3n-al-curso:b",
+        "duration": "2h 36m",
+        "category": "Programación",
+        "level": "Avanzado",
+        "language": "Español",
+        "platform": "Udemy",
+        "instructor": {
+            "name": "Juan Gabriel Gomilla",
+            "bio": "Plataforma de cursos",
+            "profileUrl": ""
+        },
+        "prerequisites": [
+            "Python",
+            "Programación",
+            "Linux - Ubuntu"
+        ],
+        "targetAudience": "Personas interesadas en aprender Inteligencia Artificial y Python",
+        "tags": [
+            "IA",
+            "Inteligencia Artificial",
+            "Python",
+            "Programación"
+        ],
+        "lessons": [
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 1. Introducción al Curso",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Introducci%C3%B3n-al-curso:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 2. Pre requisitos del curso",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Pre-requisitos-del-curso:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 3. Conoce a Juan Gabriel Gomila, tu instructor online",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Conoce-a-Juan-Gabriel-Gomila%2C-tu-instructor-online:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 4. Un ejemplo en directo de IA",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Un-ejemplo-en-directo-de-IA:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 5. Aplicaciones prácticas del reinforcement learning y la IA en el mundo actual",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Aplicaciones-pr%C3%A1cticas-del-reinforcement-learning-y-la-IA-en-el-mundo-actual:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 1. Una recomendación acerca de cómo ver esta sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Una-recomendaci%C3%B3n-acerca-de-c%C3%B3mo-ver-esta-secci%C3%B3n:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 2. ¿Qué es el aprendizaje por refuerzo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-%C2%BFQu%C3%A9-es-el-aprendizaje-por-refuerzo:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 3. Notación de variables",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Notaci%C3%B3n-de-variables:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 4. El agente del laberinto",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-El-agente-del-laberinto:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 5. La ecuación de Bellman",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-La-ecuaci%C3%B3n-de-Bellman:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 6. Calculando el resto de valores en los estados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Calculando-el-resto-de-valores-en-los-estados:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 7. El plan",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-El-plan:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 8. Búsquedas deterministas y no deterministas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-B%C3%BAsquedas-deterministas-y-no-deterministas:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 9. Procesos estocásticos o cadenas de Markov",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Procesos-estoc%C3%A1sticos-o-cadenas-de-Markov:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 10. Ecuación de Bellman con procesos estocásticos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-Ecuaci%C3%B3n-de-Bellman-con-procesos-estoc%C3%A1sticos:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 11. Politica o plan",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Politica-o-plan:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 12. Factor de Penalización",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Factor-de-Penalizaci%C3%B3n:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 13. Q-Learning",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-Q-Learning:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 14. La diferencia temporal",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/14.-La-diferencia-temporal:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Como aprenden las máquinas - 15. ¡Fin de la teoría!",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/15.-%C2%A1Fin-de-la-teor%C3%ADa!:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 1. Instalar Python con Anaconda",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Instalar-Python-con-Anaconda:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 2. Cómo instalar la librería AIGym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-C%C3%B3mo-instalar-la-librer%C3%ADa-AIGym:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 3. Probando OpenAI",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Probando-OpenAI:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 4. Dependencias con Homebrew y Aptitude",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Dependencias-con-Homebrew-y-Aptitude:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 5. Instalar los  entornos de Open AI Gym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Instalar-los--entornos-de-Open-AI-Gym:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 6. Probando los entornos instalados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Probando-los-entornos-instalados:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 3 Instalación y requisitos previos - 7. Pytorch, la librería de python para inteligencia artificial",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Pytorch%2C-la-librer%C3%ADa-de-python-para-inteligencia-artificial:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 4 El proyecto de la Universidad de Berkeley - 1. Como tener Python 2.x y 3.x desde Anaconda",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Como-tener-Python-2.x-y-3.x-desde-Anaconda:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 4 El proyecto de la Universidad de Berkeley - 2. El Github del proyecto de Berkeley para aprender experimentar con el laberinto",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-El-Github-del-proyecto-de-Berkeley-para-aprender-experimentar-con-el-laberinto:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 4 El proyecto de la Universidad de Berkeley - 3. Cambiando los parámetros para hacer que nuestro agente aprenda",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Cambiando-los-par%C3%A1metros-para-hacer-que-nuestro-agente-aprenda:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 1. Cómo ver todos los entornos de test que tenemos instalados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-C%C3%B3mo-ver-todos-los-entornos-de-test-que-tenemos-instalados:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 2. Ejecutar cualquier entorno de Open AI Gym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Ejecutar-cualquier-entorno-de-Open-AI-Gym:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 3. De reinforcement learning a líneas de código",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-De-reinforcement-learning-a-l%C3%ADneas-de-c%C3%B3digo:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 4. Un ejemplo de reinforcement learning con Q-Bert",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Los-espacios-de-acciones-en-OpenAI-Gym:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 5. Los espacios de acciones en OpenAI Gym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Los-espacios-de-acciones-en-OpenAI-Gym:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 5 Primer contacto con la inteligencia artificial - 6. Mostrando qué acciones y estados tenemos en un entorno",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Mostrando-qu%C3%A9-acciones-y-estados-tenemos-en-un-entorno:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 1. El problema de la montaña rusa",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-El-problema-de-la-monta%C3%B1a-rusa:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 2. El entorno y los espacios de estado y acciones",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-El-entorno-y-los-espacios-de-estado-y-acciones:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 3. Un agente con decisiones aleatorias",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Un-agente-con-decisiones-aleatorias:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 4. Nuestro propio algoritmo de Q-Learning",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Nuestro-propio-algoritmo-de-Q-Learning:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 5. Inicialización de las variables",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Inicializaci%C3%B3n-de-las-variables:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 6. El método de discretización del espacio de estados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-El-m%C3%A9todo-de-discretizaci%C3%B3n-del-espacio-de-estados:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 7. Elección de la acción",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Elecci%C3%B3n-de-la-acci%C3%B3n:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 8. El método de aprendizaje",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-El-m%C3%A9todo-de-aprendizaje:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 9. Entrenar a nuestro agente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Entrenar-a-nuestro-agente:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 10. Evaluación del entrenamiento",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-Evaluaci%C3%B3n-del-entrenamiento:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 11. Comprobando nuestro aprendizaje",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Comprobando-nuestro-aprendizaje:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Mi primer agente inteligente. El problema de la montaña Rusa - 12. Vídeos del resultado del agente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-V%C3%ADdeos-del-resultado-del-agente:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 1. Introducción al Deep Learning",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Introducci%C3%B3n-al-Deep-Learning:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 2. Historia de las redes neuronales",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Historia-de-las-redes-neuronales:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 3. El creador del concepto de Deep Learning",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-El-creador-del-concepto-de-Deep-Learning:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 4. La neurona",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-La-neurona:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 5. Cómo procesa la información una neurona artificial",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-C%C3%B3mo-procesa-la-informaci%C3%B3n-una-neurona-artificial:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 6. Las funciones de activación",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Las-funciones-de-activaci%C3%B3n:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 7. Ejercicio ¿Qué función de activación elegirías en cada caso",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Ejercicio-%C2%BFQu%C3%A9-funci%C3%B3n-de-activaci%C3%B3n-elegir%C3%ADas-en-cada-caso:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 8. Cómo funciona una red neuronal",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-C%C3%B3mo-funciona-una-red-neuronal:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 9. Programación clásica vs redes neuronales",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Programaci%C3%B3n-cl%C3%A1sica-vs-redes-neuronales:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 10. La función de costes",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-La-funci%C3%B3n-de-costes:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 11. El método de optimización del gradiente descendente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-El-m%C3%A9todo-de-optimizaci%C3%B3n-del-gradiente-descendente:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 12. Gradiente descendiente estocástico",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Gradiente-descendiente-estoc%C3%A1stico:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 7 Deep Learning al detalle - 13. Propagación hacia atrás",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-Propagaci%C3%B3n-hacia-atr%C3%A1s:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 1. Aprendizaje en profundo para problemas discretos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Aprendizaje-en-profundo-para-problemas-discretos:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 2. Las redes neuronales",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Las-redes-neuronales:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 3. Single Layer Perceptron",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Single-Layer-Perceptron:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning -  4. El perceptrón de una capa explicado",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-El-perceptr%C3%B3n-de-una-capa-explicado:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 5. Una implementación de QLearning con el perceptrón",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-C%C3%B3mo-procesa-la-informaci%C3%B3n-una-neurona-artificial:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 6. Separando métodos según su funcionalidad",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Separando-m%C3%A9todos-seg%C3%BAn-su-funcionalidad:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 7. Utilidades para complementar nuestro desarrollo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Utilidades-para-complementar-nuestro-desarrollo:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 8. Aprendiendo con la red neuronal",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Aprendiendo-con-la-red-neuronal:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 9. Probando nuestros resultados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Probando-nuestros-resultados:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 10. Experiencia de repetición",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-Experiencia-de-repetici%C3%B3n:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 11. Implementando un buffer de experiencia cíclico",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Implementando-un-buffer-de-experiencia-c%C3%ADclico:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning - 12. Aprender de la experiencia previa",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Aprender-de-la-experiencia-previa:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 8 Deep Q-Learning -  13. Probando la experiencia de repetición de la red neuronal",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-Probando-la-experiencia-de-repetici%C3%B3n-de-la-red-neuronal:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 1. Introducción a las redes neuronales convolucionales",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Introducci%C3%B3n-a-las-redes-neuronales-convolucionales:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 2. Cómo funciona el cerebro humano",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-C%C3%B3mo-funciona-el-cerebro-humano:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 3. ¿Qué son las redes neuronales de convolución",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-%C2%BFQu%C3%A9-son-las-redes-neuronales-de-convoluci%C3%B3n:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 4. La operación de convolución",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-La-operaci%C3%B3n-de-convoluci%C3%B3n:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 5. Ejemplos de convolución",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Ejemplos-de-convoluci%C3%B3n:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 6. La capa de ReLU",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-La-capa-de-ReLU:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 7. Max Pooling",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Max-Pooling:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 8. Jugando con las capas de la CNN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Jugando-con-las-capas-de-la-CNN:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 9. Flattening",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Flattening:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 10. La capa de full connection",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-La-capa-de-full-connection:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 11. Un ejemplo de red neuronal artificial al final de la CNN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Un-ejemplo-de-red-neuronal-artificial-al-final-de-la-CNN:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 12. Función softmax regularizadora",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Funci%C3%B3n-softmax-regularizadora:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 9 Las redes neuronales de convolución - 13. La entropía cruzada",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-La-entrop%C3%ADa-cruzada:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10. Mejorando nuestra red neuronal - 1. Red Neuronal Convolucional",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Red-Neuronal-Convolucional:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10. Mejorando nuestra red neuronal -  2. Decidir qué algoritmo utilizar según el espacio de observaciones",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Decidir-qu%C3%A9-algoritmo-utilizar-seg%C3%BAn-el-espacio-de-observaciones:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10. Mejorando nuestra red neuronal - 3. Un fichero JSON para gestionar los parámetros de los algoritmos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Un-fichero-JSON-para-gestionar-los-par%C3%A1metros-de-los-algoritmos:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 4. El manager de parámetros",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-El-manager-de-par%C3%A1metros:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 5. Refactorización de parámetros de carga",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Refactorizaci%C3%B3n-de-par%C3%A1metros-de-carga:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 6. Reposar el conocimiento con Q-Network",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Reposar-el-conocimiento-con-Q-Network:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 7. Cargar y guardar los estados del agente",
+                "videoUrl": "MODULO 10 Mejorando nuestra red neuronal - 7.-Cargar-y-guardar-los-estados-del-agente:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 8. Refactorización de parámetros",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Refactorizaci%C3%B3n-de-par%C3%A1metros:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 9. Parser de argumentos de Python",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Parser-de-argumentos-de-Python:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 10. Cargar cualquier entorno de Atari",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-Cargar-cualquier-entorno-de-Atari:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 11. Wrappers para configurar las IA de Atari",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Wrappers-para-configurar-las-IA-de-Atari:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 12. La razón del reescalado de imágenes",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-La-raz%C3%B3n-del-reescalado-de-im%C3%A1genes:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 13. Evitar memorizar la posición de salida",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-Evitar-memorizar-la-posici%C3%B3n-de-salida:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 14. El botón de inicio y el sistema de vidas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/14.-El-bot%C3%B3n-de-inicio-y-el-sistema-de-vidas:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 15. Optimizaciones de almacenamiento en memoria",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/15.-Optimizaciones-de-almacenamiento-en-memoria:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 16. Reescalar juegos de OpenAI Gym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/16.-Reescalar-juegos-de-OpenAI-Gym:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 17. Cargando nuestro entorno de forma independiente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/17.-Cargando-nuestro-entorno-de-forma-independiente:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 18. Entrenando a nuestro agente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/18.-Entrenando-a-nuestro-agente:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 19. Tensorboard X, una herramienta magnífica",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/19.-Tensorboard-X%2C-una-herramienta-magn%C3%ADfica:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 20. Resolviendo los bugs de código al detalle",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/20.-Resolviendo-los-bugs-de-c%C3%B3digo-al-detalle:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 21. Pruebas finales y Tensorboard",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/21.-Pruebas-finales-y-Tensorboard:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Mejorando nuestra red neuronal - 22. Últimos resultados de entrenamiento",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/22.-%C3%9Altimos-resultados-de-entrenamiento:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 1. AVISO Sección con problemas (por ahora)",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-AVISO-Secci%C3%B3n-con-problemas-%28por-ahora%29:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 2. Entrenando agentes en entornos personalizados",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Entrenando-agentes-en-entornos-personalizados:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 3. Una plantilla para crear nuestros propios entornos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Una-plantilla-para-crear-nuestros-propios-entornos:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 4. Presentando a CARLA",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Presentando-a-CARLA:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 5. Cómo hacer una virtual para instalar Ubuntu",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-C%C3%B3mo-hacer-una-virtual-para-instalar-Ubuntu:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 6. Instalar python y pip en Ubuntu",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Instalar-python-y-pip-en-Ubuntu:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 7. Install Open AI Gym en Ubuntu",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Install-Open-AI-Gym-en-Ubuntu:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 11 Entornos personalizados para entrenar a nuestros agentes - 8. Instalar Unreal Engine 4 y CARLA en Ubuntu",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-Instalar-Unreal-Engine-4-y-CARLA-en-Ubuntu:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 1. Deep Actor Critic",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Deep-Actor-Critic:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 2. Un cambio de mentalidad",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Un-cambio-de-mentalidad:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 3. Descubriendo las matemáticas de A2C",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Descubriendo-las-matem%C3%A1ticas-de-A2C:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 4. Descubriendo las matemáticas de A2C II",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Descubriendo-las-matem%C3%A1ticas-de-A2C-II:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 5. Descubriendo las matemáticas de A2C III",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Descubriendo-las-matem%C3%A1ticas-de-A2C-III:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 6. Las bases del algoritmo actor-critic",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/6.-Las-bases-del-algoritmo-actor-critic:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 7. Advantage Actor Critic",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/7.-Advantage-Actor-Critic:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 8. La mejora de aprendizaje con n pasos del crítico",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/8.-La-mejora-de-aprendizaje-con-n-pasos-del-cr%C3%ADtico:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 9. Implementando la técnica de los n pasos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/9.-Implementando-la-t%C3%A9cnica-de-los-n-pasos:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 10. Estructura del A2C",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/10.-Estructura-del-A2C:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 11. Implementación de A2C para observaciones de baja dimensión",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/11.-Implementaci%C3%B3n-de-A2C-para-observaciones-de-baja-dimensi%C3%B3n:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 12. Implementación de A2C para observaciones de mucha dimensión",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/12.-Implementaci%C3%B3n-de-A2C-para-observaciones-de-mucha-dimensi%C3%B3n:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 13. El método run para iniciar el actor y el crítico oportuno",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/13.-El-m%C3%A9todo-run-para-iniciar-el-actor-y-el-cr%C3%ADtico-oportuno:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 14. Las transiciones para guardar las n experiencias de la política actual",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/14.-Las-transiciones-para-guardar-las-n-experiencias-de-la-pol%C3%ADtica-actual:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - /media/kabudev/Seagate Expansion Drive/TeraBoxDownload/Curso completo de Inteligencia Artificial con Python/12. Algoritmo del Deep-Actor-Critic/15. La función de pérdidas para el actor y el crítico.mp4",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/15.-La-funci%C3%B3n-de-p%C3%A9rdidas-para-el-actor-y-el-cr%C3%ADtico:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 16. Procesamiento de observaciones, acciones y políticas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/16.-Procesamiento-de-observaciones%2C-acciones-y-pol%C3%ADticas:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 17. Actualizar el modelo del actor y del crítico",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/17.-Actualizar-el-modelo-del-actor-y-del-cr%C3%ADtico:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 18. Guardar, cargar y visualizar los datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/18.-Guardar%2C-cargar-y-visualizar-los-datos:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 19. El programa principal de nuestro actor",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/19.-El-programa-principal-de-nuestro-actor:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 20. La elección del entorno de aprendizaje",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/20.-La-elecci%C3%B3n-del-entorno-de-aprendizaje:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 21. Probando nuestro algoritmo A2C",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/21.-Probando-nuestro-algoritmo-A2C:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 12 Algoritmo del Deep-Actor-Critic - 22. Veredicto final de A2C",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/22.-Veredicto-final-de-A2C:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 13 Otros entornos donde aplicar las técnicas del curso - 1. Robotica, videojuegos y mucho más en el mundo de la IA",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Robotica%2C-videojuegos-y-mucho-m%C3%A1s-en-el-mundo-de-la-IA:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 13 Otros entornos donde aplicar las técnicas del curso - 2. Roboschool",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/2.-Roboschool:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 13 Otros entornos donde aplicar las técnicas del curso - 3. Retro Gym",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/3.-Retro-Gym:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 13 Otros entornos donde aplicar las técnicas del curso - 4. Starcraft 2",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/4.-Starcraft-2:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 13 Otros entornos donde aplicar las técnicas del curso - 5. Deep Mind",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/5.-Deep-Mind:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 14 BONUS Un regalo para ti - 1. Enhorabuena por completar el curso",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/1.-Enhorabuena-por-completar-el-curso:4",
+                "lessonDescription": "",
+                "resources": []
+            }
+        ]
+    },
+    {
         "id": "res_epox",
         "title": "Curso de Resina Epóxica",
         "description": "Conocerás los diferentes tipos de resina, técnicas de mezcla, pigmentación, vertido y curado. Crearás proyectos como joyería, posavasos, bandejas, cuadros, llaveros y más, además de descubrir consejos para evitar burbujas, lograr acabados profesionales y cómo iniciar tu propio emprendimiento con estas piezas.",
