@@ -1,5 +1,450 @@
 [
     {
+        "id": "UCSYP1",
+        "title": "Curso de Ciberseguridad y Privacidad Online: VPN, Proxy, TOR",
+        "description": "Aprende a navegar de manera segura, privada y anónima: Protege tus datos personales con VPN, TOR, Proxy, Tails y más!",
+        "thumbnail": "https://thumbnails.odycdn.com/optimize/s:390:220/quality:100/plain/https://thumbs.odycdn.com/9ec0a00cba616a5a757371e4023f1b36.webp",
+        "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n:8",
+        "duration": "9h 50m",
+        "category": "Ciberseguridad",
+        "level": "Intermedio",
+        "language": "Español",
+        "platform": "Udemy",
+        "instructor": {
+            "name": "Santiago Hernández",
+            "bio": "Santiago Hernández es ingeniero informático por la Universidad de Salamanca, con un máster en seguridad de la información y de las comunicaciones por la Universidad Europea. Su experiencia profesional abarca diferentes posiciones en el ámbito de la Ciberseguridad y de la la Inteligencia Artificial en compañías como Endesa, Telefónica/11paths o BBVA. Además, es profesor universitario en la UEM, en la UCLM y UCAM en diferentes postgrados relacionados con la Inteligencia Artificial y la seguridad de la información y ponente habitual en conferencias especializadas. Entre las conferencias en las que ha participado como ponente se encuentran: BlackHat Europe, ToorCon San Diego, Navaja Negra, Noconname, Cybercamp, CCN-CERT…",
+            "profileUrl": ""
+        },
+        "prerequisites": [
+            "Acceso a una computadora e internet."
+        ],
+        "targetAudience": "Personas interesadas en aprender la Ciberseguridad",
+        "tags": [
+            "Ciberseguridad"
+        ],
+        "lessons": [
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 1. Introducción",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 1 INTRODUCCIÓN - 2. Contexto y motivación.",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-Contexto-y-motivaci%C3%B3n:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Preparación del entorno de aprendizaje - 01. Preparación del entorno de aprendizaje",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Preparaci%C3%B3n-del-entorno-de-aprendizaje:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Preparación del entorno de aprendizaje - 02.Software de virtualización (VMware o VirtualBox)",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-Software-de-virtualizaci%C3%B3n-%28VMware-o-VirtualBox%29:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 2 Preparación del entorno de aprendizaje - 03. Instalación de Kali Linux",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Instalaci%C3%B3n-de-Kali-Linux:2",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "004-Preguntas-y-errores-frecuentes",
+                        "url": "https://es.scribd.com/document/980588262/004-Preguntas-y-Errores-Frecuentes"
+                    },
+                    {
+                        "type": "PDF",
+                        "title": "005-Instalación-Windows",
+                        "url": "https://es.scribd.com/document/980588263/005-Instalacion-Windows"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 2 Preparación del entorno de aprendizaje - 04. Instalación de Windows",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-Instalaci%C3%B3n-de-Windows:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 02. ¿Qué es una VPN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-una-VPN:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 03. Instalando un cliente VPN (Windows, Linux, MacOS)",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Instalando-un-cliente-VPN-%28Windows%2C-Linux%2C-MacOS%29:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 04. Instalación Wireshark",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-Instalaci%C3%B3n-Wireshark:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 05. Funcionamiento y configuración de una VPN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-Funcionamiento-y-configuraci%C3%B3n-de-una-VPN:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 06. Análisis del tráfico VPN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-An%C3%A1lisis-del-tr%C3%A1fico-VPN:d",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "007 ¿Qué es OpenVPN",
+                        "url": "https://es.scribd.com/document/9806"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 07. Navegadores con VPN incorporada",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/008-Navegadores-con-VPN-incorporada:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 08. Funcionamiento y análisis de navegador con VPN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/009-Funcionamiento-y-an%C3%A1lisis-de-navegador-con-VPN:4",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "010 Problemas con Bettercap",
+                        "url": "https://es.scribd.com/document/980650279/010-Problemas-Con-Bettercap"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 09. VPN para protegerte contra algunos ataques",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/011-VPN-para-protegerte-contra-algunos-ataques:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 03  VPN (Virtual Private Network) - 010. ¿Por qué protonVPN - TOSDR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/012-%C2%BFPor-qu%C3%A9-protonVPN---TOSDR:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n4:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 02. ¿Qué es un Proxy?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-un-Proxy:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 03. Funcionamiento y configuración de un Proxy",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Funcionamiento-y-configuraci%C3%B3n-de-un-Proxy:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 04. Análisis del tráfico Proxy",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-An%C3%A1lisis-del-tr%C3%A1fico-Proxy:d",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "PDF",
+                        "title": "005 ¿Qué es Socksv4 y Socksv5",
+                        "url": "https://es.scribd.com/document/981020949/005-Que-Es-Socksv4-y-Socksv5"
+                    }
+                ]
+            },
+            {
+                "title": "MODULO 04 Proxy - 05. Privoxy",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Proxy-Web---ProxySite:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 06. Proxy Web - ProxySite",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Proxy-Web---ProxySite:7",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 04 Proxy - 07. ProxyChains",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/008-ProxyChains:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n-5:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 02. ¿Qué es la Red TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-la-Red-TOR:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 03. TOR Browser",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-TOR-Browser:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 04. Análisis del tráfico TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-An%C3%A1lisis-del-tr%C3%A1fico-TOR:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 05. Brave Browser con TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-Brave-Browser-con-TOR:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 06. ProxyChains con TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-ProxyChains-con-TOR:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 07. Herramientas de Hacking Ético con TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Herramientas-de-Hacking-%C3%89tico-con-TOR:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 08. TOR sobre VPN",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/008-TOR-sobre-VPN:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 05 Red TOR - 09. Servicios que bloquean TOR",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/009-Servicios-que-bloquean-TOR:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n-6:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 02. ¿Qué es Whonix?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-Whonix:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 03. Medidas de seguridad Whonix",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Medidas-de-seguridad-Whonix:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 04. Instalación y configuración de Whonix",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-Instalaci%C3%B3n-y-configuraci%C3%B3n-de-Whonix:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 05. Funcionamiento de Whonix",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-Funcionamiento-de-Whonix:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 6 Whonix - 06. Whonix con TOR Bridges",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-Whonix-con-TOR-Bridges:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n-7:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 02. ¿Qué es Qubes OS",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-Qubes-OS:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 03. Instalación de Qubes OS",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Instalaci%C3%B3n-de-Qubes-OS:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 04. Navegación segura en Qubes OS",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-Navegaci%C3%B3n-segura-en-Qubes-OS:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 05. Gestión segura de ficheros en Qubes OS",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-Gesti%C3%B3n-segura-de-ficheros-en-Qubes-OS:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 06. Disposable Qube",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-Disposable-Qube:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 07. Qubes Manager y gestión de aplicaciones",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Qubes-Manager-y-gesti%C3%B3n-de-aplicaciones:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 08. Creación de nuevos Qubes",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/008-Creaci%C3%B3n-de-nuevos-Qubes:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 07 Qubes OS - 09. Whonix con Qubes OS",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/009-Whonix-con-Qubes-OS:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n-8:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 02. ¿Qué es Tails?",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-es-Tails:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 03. Instalación y configuración de Tails",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-Instalaci%C3%B3n-y-configuraci%C3%B3n-de-Tails:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 04. Funcionamiento general de Tails",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-Funcionamiento-general-de-Tails:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 05. OnionShare con Tails",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-OnionShare-con-Tails:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 06. HiddenVM",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-HiddenVM:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 08 TAILS - 07. Whonix vs QubesOS vs Tails",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Whonix-vs-QubesOS-vs-Tails:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 01. Introducción a la sección",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Introducci%C3%B3n-a-la-secci%C3%B3n9:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 02. ¿Qué son los Zero-Knowledge services",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/002-%C2%BFQu%C3%A9-son-los-Zero-Knowledge-services:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 03. SpiderOak CrossClave",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/003-SpiderOak-CrossClave:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 04. Protonmail",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/004-Protonmail:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 05. Tresorit",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/005-Tresorit:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 06. KeePassXC",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/006-KeePassXC:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 07. Signal",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/007-Signal:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 08. Brave Browser y DuckDuckGo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/008-Brave-Browser-y-DuckDuckGo:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 09. Maildrop",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/009-Maildrop:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 09 Zero-knowledge services - 10. The Invisible Internet Project (I2P)",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/010-The-Invisible-Internet-Project-%28I2P%29:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "MODULO 10 Despedida del curso - 01. Despedida del curso",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/001-Despedida-del-curso:6",
+                "lessonDescription": "",
+                "resources": []
+            }
+        ]
+    },
+    {
         "id": "CCIACP",
         "title": "Curso Completo de Inteligencia Artificial con Python",
         "description": "",
