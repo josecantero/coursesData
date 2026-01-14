@@ -1,5 +1,316 @@
 [
     {
+        "id": "CCDEBIA",
+        "title": "Curso completo de Excel - Informatica Integral",
+        "description": "Este curso ha sido diseñado para personas que no cuentan con ningún conocimiento de Excel, sin embargo, también puede ser para personas que sepan Excel y que deseen actualizarse o personas que han aprendido empíricamente pero no de una manera formal. Este curso tiene certificado y los conocimientos necesarios para nuestro siguiente nivel que sería el nivel intermedio.",
+        "thumbnail": "https://thumbs.odycdn.com/bd538ba157da0e2d930ee600ab94e275.webp",
+        "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Conoce-la-suite-de-Office-2016:c",
+        "duration": "2h 36m",
+        "category": "Ofimática",
+        "level": "Avanzado",
+        "language": "Español",
+        "platform": "Informática Integral",
+        "instructor": {
+            "name": "Francisco Pineda",
+            "bio": "",
+            "profileUrl": ""
+        },
+        "prerequisites": [
+            "Acceso a una computadora con internet",
+            "Microsoft Excel"
+        ],
+        "targetAudience": "Personas interesadas en aprender Excel",
+        "tags": [
+            "Excel",
+            "ofimatica",
+            "office"
+        ],
+        "lessons": [
+            {
+                "title": "Nivel Básico (Éxcel Básico) 01. Conociendo Excel - 01.Conoce la suite de Office 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Conoce-la-suite-de-Office-2016:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 01. Conociendo Excel - 02.Novedades en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.Novedades-en-Excel-2016:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 01. Conociendo Excel - 03.La nueva interfaz de Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.La-nueva-interfaz-de-Excel-2016:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 01. Conociendo Excel - 04.La nueva barra de información de Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.La-nueva-barra-de-informaci%C3%B3n-de-Excel:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 01.Creando una hoja de cálculo nueva",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Creando-una-hoja-de-c%C3%A1lculo-nueva:e",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 02.Métodos de carga de datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.M%C3%A9todos-de-carga-de-datos:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 03.La función de autocompletado en Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.La-funci%C3%B3n-de-autocompletado-en-Excel:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 04.Cómo deshacer un cambio en Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.C%C3%B3mo-deshacer-un-cambio-en-Excel:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 05.Añadir comentarios a una hoja de Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/05.A%C3%B1adir-comentarios-a-una-hoja-de-Excel:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 06.Cómo guardar y exportar hojas de cálculo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/06.C%C3%B3mo-guardar-y-exportar-hojas-de-c%C3%A1lculo:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 02. Libros y hojas de cálculo en Excel 2016 - 07.Opciones de impresión para hojas de cálculo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/07.Opciones-de-impresi%C3%B3n-para-hojas-de-c%C3%A1lculo:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 01. Creando fórmulas sencillas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Creando-f%C3%B3rmulas-sencillas-en-Excel-2016:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 02. La barra de fórmulas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.La-barra-de-f%C3%B3rmulas-en-Excel-2016:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 03. Copiando fórmulas a celdas adyacentes",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.Copiando-f%C3%B3rmulas-a-celdas-adyacentes:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 04. Usando funciones IF y operadores relacionales",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.Usando-funciones-IF-y-operadores-relacionales:5c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 05. Obtener datos de una tabla con la función BUSCARV",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/05.Obtener-datos-de-una-tabla-con-la-funci%C3%B3n-BUSCARV:3",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 03. Fórmulas y funciones en Excel 2016 - 06. Cómo utilizar la familia de funciones CONTAR SI",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/06.C%C3%B3mo-utilizar-la-familia-de-funciones-CONTAR.SI:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 01. Estilos y fuentes tipográficas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Estilos-y-fuentes-tipogr%C3%A1ficas-en-Excel-2016:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 02. Ajustes y alineación de texto en Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.Ajustes-y-alineaci%C3%B3n-de-texto-en-Excel:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 03. Bordes en una hoja de cálculo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.Bordes-en-una-hoja-de-c%C3%A1lculo:5",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 04. Explorando los formatos de datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.Explorando-los-formatos-de-datos:a",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 05. Usando formatos condicionales en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/05.Usando-formatos-condicionales-en-Excel-2016:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 06. Trabajo con tablas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/06.Trabajo-con-tablas-en-Excel-2016:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 04. Estilo y formato de datos en Excel 2016 - 07.Cómo insertar imágenes y formas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/07.C%C3%B3mo-insertar-im%C3%A1genes-y-formas-en-Excel-2016:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 05. Ajustes a la hoja de cálculo de Excel 2016 - 01.Cómo modificar filas y columnas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.C%C3%B3mo-modificar-filas-y-columnas-en-Excel-2016:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 05. Ajustes a la hoja de cálculo de Excel 2016 - 02.Ocultando filas y columnas en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.Ocultando-filas-y-columnas-en-Excel-2016:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 05. Ajustes a la hoja de cálculo de Excel 2016 - 03.Cómo buscar y reemplazar datos en una hojas de cálculo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.C%C3%B3mo-buscar-y-reemplazar-datos-en-una-hojas-de-c%C3%A1lculo:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 06. Gráficas de datos en Excel 2016 - 01.Cómo crear gráficas de datos en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.C%C3%B3mo-crear-gr%C3%A1ficas-de-datos-en-Excel-2016:f",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 06. Gráficas de datos en Excel 2016 - 02.Explorando los tipos de gráficos de datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.Explorando-los-tipos-de-gr%C3%A1ficos-de-datos:b4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 06. Gráficas de datos en Excel 2016 - 03.Diseño y estilo de las gráficas de datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.C%C3%B3mo-buscar-y-reemplazar-datos-en-una-hojas-de-c%C3%A1lculo:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 06. Gráficas de datos en Excel 2016 - 04.Creación de sparklines",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.Creaci%C3%B3n-de-sparklines:15",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 07. Ajustando la vista de las hojas de cálculo de Excel 2016 - 01. Bloqueo y desbloqueo de paneles",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Bloqueo-y-desbloqueo-de-paneles:b",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 07. Ajustando la vista de las hojas de cálculo de Excel 2016 - 02. Cómo dividir la pantalla de Excel horizontal y verticalmente",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.C%C3%B3mo-dividir-la-pantalla-de-Excel-horizontal-y-verticalmente:4",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 07. Ajustando la vista de las hojas de cálculo de Excel 2016 - 03. Cómo colapsar o expandir las vistas con esquemas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.C%C3%B3mo-colapsar-o-expandir-las-vistas-con-esquemas:7d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 08. Múltiples libros y hojas de cálculo en Excel 2016 - 01. Mostrar múltiples libros en pantalla",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Mostrar-m%C3%BAltiples-libros-en-pantalla:9",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 08. Múltiples libros y hojas de cálculo en Excel 2016 - 02. Cómo agregar, renombrar y borrar hojas en un libro",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.C%C3%B3mo-agregar%2C-renombrar-y-borrar-hojas-en-un-libro:1",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 08. Múltiples libros y hojas de cálculo en Excel 2016 - 03. Mover, copiar y agrupar hojas de cálculo",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.Mover%2C-copiar-y-agrupar-hojas-de-c%C3%A1lculo:8",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 08. Múltiples libros y hojas de cálculo en Excel 2016 - 04. Cómo ligar libros y hojas de cálculo con fórmulas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.C%C3%B3mo-ligar-libros-y-hojas-de-c%C3%A1lculo-con-f%C3%B3rmulas:0",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 08. Múltiples libros y hojas de cálculo en Excel 2016 - 05. Localizando y manteniendo enlaces en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/05.Localizando-y-manteniendo-enlaces-en-Excel-2016:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 09. Opciones para gestión de datos en Excel 2016 - 01. Ordenando datos en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.Ordenando-datos-en-Excel-2016:d",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 09. Opciones para gestión de datos en Excel 2016 - 02. Cómo usar filtros en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.C%C3%B3mo-usar-filtros-en-Excel-2016:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 09. Opciones para gestión de datos en Excel 2016 - 03. Dividiendo y combinando datos de columnas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/03.Dividiendo-y-combinando-datos-de-columnas:c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 09. Opciones para gestión de datos en Excel 2016 - 04. Cómo eliminar datos duplicados en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.C%C3%B3mo-eliminar-datos-duplicados-en-Excel-2016:6",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 09. Opciones para gestión de datos en Excel 2016 - 05. Usar herramientas de validación de datos",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/05.Usar-herramientas-de-validaci%C3%B3n-de-datos:34",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 10. Seguridad y trabajo colaborativo en Excel 2016 - 01. Cómo proteger hojas y bloquear celdas",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/01.C%C3%B3mo-proteger-hojas-y-bloquear-celdas:1c",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 10. Seguridad y trabajo colaborativo en Excel 2016 - 02. Protegiendo libros en Excel 2016",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/02.Protegiendo-libros-en-Excel-2016:2",
+                "lessonDescription": "",
+                "resources": []
+            },
+            {
+                "title": "Nivel Básico (Éxcel Básico) 10. Seguridad y trabajo colaborativo en Excel 2016 - 03. Cómo compartir libros de Excel",
+                "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/04.C%C3%B3mo-eliminar-datos-duplicados-en-Excel-2016:6",
+                "lessonDescription": "",
+                "resources": []
+            }
+        ]
+    },
+    {
         "id": "UCSYP1",
         "title": "Curso de Ciberseguridad y Privacidad Online: VPN, Proxy, TOR",
         "description": "Aprende a navegar de manera segura, privada y anónima: Protege tus datos personales con VPN, TOR, Proxy, Tails y más!",
