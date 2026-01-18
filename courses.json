@@ -332,11 +332,6 @@
                 "lessonDescription": "",
                 "resources": [
                     {
-                "title": "",
-                "videoUrl": "",
-                "lessonDescription": "",
-                "resources": [
-                    {
                         "type": "ZIP",
                         "title": "proveedores",
                         "url": "https://www.mediafire.com/file/s4r7i202jzvif0n/proveedores.csv.zip/file"
