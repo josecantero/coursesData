@@ -332,9 +332,49 @@
                 "lessonDescription": "",
                 "resources": [
                     {
-                        "type": "",
-                        "title": "",
-                        "url": ""
+                "title": "",
+                "videoUrl": "",
+                "lessonDescription": "",
+                "resources": [
+                    {
+                        "type": "ZIP",
+                        "title": "proveedores",
+                        "url": "https://www.mediafire.com/file/s4r7i202jzvif0n/proveedores.csv.zip/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "BIENVENIDOS A EXCEL",
+                        "url": "https://www.mediafire.com/file/2f3vh266zz4xumk/Bienvenido_a_Excel_2016.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "CATALOGO",
+                        "url": "https://www.mediafire.com/file/urd6j0pwii4rcd5/Catalogo.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "DIRECTORIO",
+                        "url": "https://www.mediafire.com/file/5b7n80yagczu01e/Directorio.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "FUNCIÓN CONTAR SI",
+                        "url": "https://www.mediafire.com/file/dwxoaagl6hrn46q/Funcion_Contar.si.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "FUNCIONES",
+                        "url": "https://www.mediafire.com/file/y1wvwmllslf52hw/Funciones.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "TABLAS DINÁMICAS",
+                        "url": "https://www.mediafire.com/file/ra8f7ik2xe9konb/Tablas_dinamicas.xlsx/file"
+                    },
+                    {
+                        "type": "XLSX",
+                        "title": "VENTAS DE LIBROS",
+                        "url": "https://www.mediafire.com/file/lezs0okd9hxqpoo/Venta_de_libros_2015.xlsx/file"
                     }
                 ]
             }
