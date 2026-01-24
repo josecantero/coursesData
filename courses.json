@@ -659,7 +659,13 @@
                 "title": "Nivel Intermedio (Curso Excel Análisis y Gestión de Datos).  Introducción - 1. Introducción",
                 "videoUrl": "https://odysee.com/@VendesPorqueVendes:3/Intro:b96",
                 "lessonDescription": "",
-                "resources": []
+                "resources": [
+                    {
+                        "type": "ZIP",
+                        "title": "Archivos de Práctica",
+                        "url": "https://www.mediafire.com/file/w91o35dyapnpuy1/ARCHIVOS_DE_PRACTICA.zip/file"
+                    }
+                ]
             },
             {
                 "title": "Nivel Intermedio (Curso Excel Análisis y Gestión de Datos) 01.Orden y filtrado de datos en Excel 2016 - 1.La bases sobre ordenación",
